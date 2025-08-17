@@ -147,7 +147,7 @@ onMounted(() => {
               </a>
               <a
                 aria-label="Facebook"
-                href="https://facebook.com/rafaelalpes"
+                href="https://facebook.com/rafael.alpes.5"
                 target="_blank"
                 class="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-white ring-1 ring-slate-200 text-slate-600 hover:text-blue-600 hover:shadow transition"
               >
@@ -227,7 +227,7 @@ onMounted(() => {
               Contact Me
             </a>
             <a
-              href="/Rafael-Alpes-CV.pdf"
+              href="/Rafael_Alpes.pdf"
               download
               class="px-7 py-3.5 rounded-xl bg-white text-slate-800 font-semibold ring-1 ring-slate-200 shadow-sm hover:shadow transition"
             >

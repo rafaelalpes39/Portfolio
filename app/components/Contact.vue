@@ -39,14 +39,14 @@
               >Phone</span
             >
             <span class="block text-lg font-semibold group-hover:underline">
-              0949 986 6198
+              0949 986 8198
             </span>
           </span>
         </a>
 
         <!-- Email -->
         <a
-          href="mailto:rafaelealpes3@gmail.com"
+          href="mailto:rafaelalpes39@gmail.com"
           class="group flex items-start gap-4"
         >
           <span
@@ -72,7 +72,7 @@
               >Email</span
             >
             <span class="block font-semibold text-lg group-hover:underline">
-              rafaelealpes3@gmail.com
+              rafaelalpes39@gmail.com
             </span>
           </span>
         </a>
@@ -107,7 +107,7 @@
 
         <!-- GitHub -->
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/rafaelalpes39"
           target="_blank"
           class="group flex items-start gap-4"
         >
@@ -129,14 +129,14 @@
               >GitHub</span
             >
             <span class="block text-lg font-semibold group-hover:underline">
-              github.com/yourusername
+              https://github.com/rafaelalpes39
             </span>
           </span>
         </a>
 
         <!-- LinkedIn -->
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/rafael-alpes-091249293/"
           target="_blank"
           class="group flex items-start gap-4"
         >
@@ -156,7 +156,7 @@
               >LinkedIn</span
             >
             <span class="block text-lg font-semibold group-hover:underline">
-              linkedin.com/in/yourusername
+              rafael-alpes-091249293/
             </span>
           </span>
         </a>
@@ -171,7 +171,7 @@
           Email me
         </a>
         <a
-          href="tel:+639499866198"
+          href="tel:+639499868198"
           class="inline-flex items-center justify-center rounded-xl bg-emerald-900/20 text-white font-semibold px-4 py-2 ring-1 ring-white/20 hover:bg-emerald-900/30 transition"
         >
           Call now
@@ -222,7 +222,7 @@
           <!-- Primary CTAs -->
           <div class="mt-6 flex flex-wrap gap-3">
             <a
-              href="mailto:rafaelealpes3@gmail.com?subject=Project%20Inquiry"
+              href="mailto:rafaelalpes39@gmail.com?subject=Project%20Inquiry"
               class="inline-flex items-center gap-2 rounded-xl bg-emerald-600 text-white px-5 py-3 font-semibold shadow hover:bg-emerald-700 transition"
             >
               <!-- paper plane -->
@@ -242,7 +242,7 @@
             </a>
 
             <a
-              href="/Rafael-Alpes-CV.pdf"
+              href="/Rafael_Alpes.pdf"
               download
               class="inline-flex items-center gap-2 rounded-xl bg-white text-slate-800 px-5 py-3 font-semibold ring-1 ring-slate-200 shadow-sm hover:shadow transition"
             >

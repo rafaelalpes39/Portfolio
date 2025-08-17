@@ -52,7 +52,7 @@
             <!-- contact shortcuts -->
             <div class="pt-4 flex flex-wrap gap-3">
               <a
-                href="mailto:rafaelealpes3@gmail.com"
+                href="mailto:rafaelalpes39@gmail.com"
                 class="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-white ring-1 ring-slate-200 text-slate-800 font-medium shadow-sm hover:shadow transition"
               >
                 <!-- mail -->
@@ -69,7 +69,7 @@
                 Email
               </a>
               <a
-                href="tel:+639499866198"
+                href="tel:+639499868198"
                 class="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-emerald-600 text-white font-semibold shadow hover:bg-emerald-700 transition"
               >
                 <!-- phone -->
@@ -175,7 +175,7 @@
             Work with me
           </a>
           <a
-            href="/Rafael-Alpes-CV.pdf"
+            href="/Rafael_Alpes.pdf"
             download
             class="inline-flex items-center gap-2 rounded-xl bg-white text-slate-800 px-5 py-3 font-semibold ring-1 ring-slate-200 shadow-sm hover:shadow transition"
           >

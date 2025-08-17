@@ -37,14 +37,14 @@
         <!-- Social Buttons (hidden on small screens) -->
         <div class="hidden md:flex space-x-3 items-center">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/rafaelalpes39"
             target="_blank"
             class="inline-flex items-center px-3 py-2 text-sm font-medium rounded-md text-white bg-gray-800 hover:bg-gray-700 transition"
           >
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/rafael-alpes-091249293/"
             target="_blank"
             class="inline-flex items-center px-3 py-2 border border-blue-600 text-sm font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 transition"
           >
