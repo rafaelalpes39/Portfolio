@@ -165,7 +165,7 @@
       <!-- CTA Buttons -->
       <div class="mt-8 flex flex-wrap gap-3">
         <a
-          href="mailto:rafaelealpes3@gmail.com"
+          href="mailto:rafaelealpes39@gmail.com"
           class="inline-flex items-center justify-center rounded-xl bg-white text-emerald-700 font-semibold px-4 py-2 shadow-sm hover:shadow transition"
         >
           Email me

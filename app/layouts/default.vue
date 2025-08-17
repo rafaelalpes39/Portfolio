@@ -125,16 +125,17 @@
             class="block text-gray-700 hover:text-blue-600 font-medium transition"
             >About</a
           >
+            <a
+            href="#skills"
+            class="block text-gray-700 hover:text-blue-600 font-medium transition"
+            >Skills</a
+          >
           <a
             href="#expi-Stacks"
             class="block text-gray-700 hover:text-blue-600 font-medium transition"
             >Experience & Stacks</a
           >
-          <a
-            href="#projects"
-            class="block text-gray-700 hover:text-blue-600 font-medium transition"
-            >Projects</a
-          >
+        
           <a
             href="#contact"
            class="block text-gray-700 hover:text-blue-600 font-medium transition"
@@ -142,14 +143,14 @@
           >
         <div class="flex space-x-2 pt-2">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/rafaelalpes39"
             target="_blank"
             class="flex-1 text-center inline-block px-3 py-2 text-sm font-medium rounded-md text-white bg-gray-800 hover:bg-gray-700 transition"
           >
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/rafael-alpes-091249293/"
             target="_blank"
             class="flex-1 text-center inline-block px-3 py-2 border border-blue-600 text-sm font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 transition"
           >
